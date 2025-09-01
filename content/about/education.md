@@ -34,7 +34,7 @@ experience:
     company_logo: vit
     location: Vellore, India
     date_start: '2021-08-01'
-    date_end: '2025-06-30'
+    date_end: '2025-08-17'
     description: |2-
         * CGPA: 8.19  
         * Focus on Artificial Intelligence and Data Science  
