@@ -13,37 +13,32 @@ title: Experience
 subtitle:
 
 # Date format for experience
-#   Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
 
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Data Science Intern
+    company: Officebanao
+    company_url: 'https://www.officebanao.com'
+    company_logo: officebanao
+    location: Gurgaon, India
+    date_start: '2025-06-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Built internal AI-powered app portals (ProcGPT, MEPProcGPT, Legal Tender App) for streamlined workflows.  
+        * Designed BOQ and PO Bill comparator systems with product-mapping logic to resolve billing inconsistencies.  
+        * Prototyped Leads/Projects dashboard with automated email alerts for leadership visibility and POC tracking.  
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Data Science & ML Summer Intern
+    company: 4i Apps
+    company_url: 'https://www.4iapps.com'
+    company_logo: 4iapps
+    location: Chennai, India
+    date_start: '2024-07-01'
+    date_end: '2024-08-31'
+    description: |2-
+        * Engineered ML and deep learning models to drive predictive analytics, improving forecasting accuracy by 20%.  
+        * Enhanced model performance through feature engineering and hyperparameter tuning, reducing errors by 25%.  
+        * Collaborated with cross-functional teams, delivering reports and presentations to aid strategic decisions.  
 
 design:
   columns: '1'
