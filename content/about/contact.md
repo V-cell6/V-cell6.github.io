@@ -16,6 +16,13 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
+  # Contact details
+  email: vedantsha2003@gmail.com
+  phone: '+91-9173834377'
+  github: 'https://github.com/V-cell6'
+  linkedin: 'https://www.linkedin.com/in/vedant-sharma-6a3b41241/'
+  medium: 'https://medium.com/@vedant6'
+
   # Email form provider
   form:
     provider: netlify
